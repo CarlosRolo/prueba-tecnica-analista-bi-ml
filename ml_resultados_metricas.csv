@@ -1,0 +1,3 @@
+modelo,MAE,RMSE
+Regresión Lineal,479.12,893.55
+Random Forest,744.41,1083.67
